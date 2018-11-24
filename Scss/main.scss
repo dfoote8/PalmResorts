@@ -1,0 +1,12 @@
+@import 'vendors/normalize.scss';
+@import 'partials/base';
+@import 'partials/colors';
+@import 'partials/variables';
+
+body{
+    background-image: url("Images/caribbean.jpg");
+    alt: inherit;
+}
+header{
+    color:$primary_heading_color;
+}
